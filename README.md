@@ -13,9 +13,9 @@ The font I am using is [Source Code Pro](https://fonts.google.com/specimen/Sourc
 
 ### Tinacious Design (Dark)
 
-![Screenshot of Tinacious Design (Dark)](screenshots/tinacious-design-dark-iterm-colors.png)
+<img src="screenshots/tinacious-design-dark-iterm-colors.png" alt="Screenshot of Tinacious Design (Dark)" width="640" />
 
 
 ### Tinacious Design (Light)
 
-![Screenshot of Tinacious Design (Light)](screenshots/tinacious-design-light-iterm-colors.png)
+<img src="screenshots/tinacious-design-light-iterm-colors.png" alt="Screenshot of Tinacious Design (Light)" width="639" />
