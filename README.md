@@ -18,4 +18,4 @@ The font I am using is [Source Code Pro](https://fonts.google.com/specimen/Sourc
 
 ### Tinacious Design (Light)
 
-<img src="screenshots/tinacious-design-light-iterm-colors.png" alt="Screenshot of Tinacious Design (Light)" width="639" />
+<img src="screenshots/tinacious-design-light-iterm-colors.png" alt="Screenshot of Tinacious Design (Light)" width="640" />
